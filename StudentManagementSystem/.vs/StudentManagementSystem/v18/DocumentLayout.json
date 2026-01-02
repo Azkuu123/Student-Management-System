@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sheik\\Desktop\\Student-Management-System\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0966FAA9-E170-4E7B-9788-C588E30E0988}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\sheik\\desktop\\student-management-system\\studentmanagementsystem\\studentmanagementsystem\\registrationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0966FAA9-E170-4E7B-9788-C588E30E0988}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\registrationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0966FAA9-E170-4E7B-9788-C588E30E0988}|StudentManagementSystem\\StudentManagementSystem.csproj|C:\\Users\\sheik\\Desktop\\Student-Management-System\\StudentManagementSystem\\studentmanagementsystem\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0966FAA9-E170-4E7B-9788-C588E30E0988}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginUI.cs",
+              "DocumentMoniker": "C:\\Users\\sheik\\Desktop\\Student-Management-System\\StudentManagementSystem\\StudentManagementSystem\\LoginUI.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\LoginUI.cs",
+              "ToolTip": "C:\\Users\\sheik\\Desktop\\Student-Management-System\\StudentManagementSystem\\StudentManagementSystem\\LoginUI.cs",
+              "RelativeToolTip": "StudentManagementSystem\\LoginUI.cs",
+              "ViewState": "AgIAAGkCAAAAAAAAAAAAAFECAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T04:30:29.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationUI.cs",
+              "DocumentMoniker": "C:\\Users\\sheik\\Desktop\\Student-Management-System\\StudentManagementSystem\\StudentManagementSystem\\RegistrationUI.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\RegistrationUI.cs",
+              "ToolTip": "C:\\Users\\sheik\\Desktop\\Student-Management-System\\StudentManagementSystem\\StudentManagementSystem\\RegistrationUI.cs",
+              "RelativeToolTip": "StudentManagementSystem\\RegistrationUI.cs",
+              "ViewState": "AgIAAO4BAAAAAAAAAAAAANAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T04:35:05.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
